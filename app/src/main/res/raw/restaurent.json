@@ -1,0 +1,51 @@
+[
+    {
+      "name":"Arequipa's Pizza",
+      "address":"Urb. Verde",
+      "delivery_charge": 5,
+      "image":"https://1000marcas.net/wp-content/uploads/2020/01/Pizza-Hut-logo.png",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Pizza Alemana",
+          "price": 10.00,
+          "url": "https://www.saborusa.com/wp-content/uploads/2019/12/origen-de-la-pizza-1.jpg.webp"
+        },
+        {
+          "name": "Pizza Especial",
+          "price": 23.99,
+          "url": "https://www.lavanguardia.com/files/image_948_465/files/fp/uploads/2021/03/30/6063031b90a87.r_d.1083-871-4663.jpeg"
+        },
+        {
+          "name": "Pizza Americana",
+          "price": 14.99,
+          "url": "https://w6h5a5r4.rocketcdn.me/wp-content/uploads/2019/06/pizza-con-chorizo-jamon-y-queso-1080x671.jpg"
+        },
+        {
+          "name": "Pizza española",
+          "price": 15.49,
+          "url": "https://t1.rg.ltmcdn.com/es/posts/1/9/3/pizza_casera_31391_600.jpg"
+        },
+        {
+          "name": "Pizza Margarita",
+          "price": 4.00,
+          "url": "https://t2.rg.ltmcdn.com/es/posts/8/9/9/pizza_casera_sin_horno_60998_600.jpg"
+        },
+        {
+          "name": "Pizza Ahumada",
+          "price": 23.25,
+          "url": "https://t2.rg.ltmcdn.com/es/posts/4/9/8/mini_pizzas_sin_horno_55894_600.jpg"}
+
+      ]
+
+  }
+]
